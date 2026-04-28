@@ -106,7 +106,7 @@ Python, Django, DRF
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Special Fact-
 
 I enjoy turning ideas into real-world backend systems and solving programming challenges.
 
