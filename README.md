@@ -1,33 +1,33 @@
 <!-- GitHub Profile README for sumonstr -->
 
-<h1 align="center">Hi 👋, I'm Sumon</h1>
+<h1 align="center">Hi , I'm Sumon</h1>
 <h3 align="center">Aspiring Software Engineer | Django & DRF Developer | Backend Enthusiast</h3>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Computer Science student passionate about **Software Development**
-- 💻 Backend-focused developer with experience in **Django & Django REST Framework**
-- 🌐 Skilled in building **full-stack applications** using React and modern APIs
-- 🔧 Interested in designing **scalable backend systems**
-- 🎯 Career Goal: Become a **Professional Software Engineer**
+-  Computer Science student passionate about **Software Development**
+-  Backend-focused developer with experience in **Django & Django REST Framework**
+-  Skilled in building **full-stack applications** using React and modern APIs
+-  Interested in designing **scalable backend systems**
+-  Career Goal: Become a **Professional Software Engineer**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 - Python  
 - C++  
 - JavaScript  
 
-### ⚙️ Frameworks & Libraries
+### Frameworks & Libraries
 - Django  
 - Django REST Framework (DRF)  
 - React  
 
-### 🗄️ Tools & Technologies
+### Tools & Technologies
 - Git & GitHub  
 - REST API Development  
 - Database Design  
@@ -35,9 +35,9 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🏥 Clinical Management System  
+### Clinical Management System  
 **Full-stack web application**
 
 **Features:**
@@ -52,7 +52,7 @@ Python, Django, DRF, React, JavaScript
 
 ---
 
-### 🛒 POS (Point of Sale) Backend System  
+### POS (Point of Sale) Backend System  
 
 **Features:**
 - Product management API  
@@ -65,7 +65,7 @@ Python, Django, DRF
 
 ---
 
-### 🔧 Other Projects
+### Other Projects
 
 - University Event Management System  
 - QR Authentication System  
@@ -74,7 +74,7 @@ Python, Django, DRF
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sumonstr12&show_icons=true&theme=tokyonight" />
@@ -86,17 +86,17 @@ Python, Django, DRF
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
-- 💼 LinkedIn:  
+- LinkedIn:  
   https://www.linkedin.com/in/sumon-str/
 
-- 🐙 GitHub:  
+- GitHub:  
   https://github.com/sumonstr12
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Building scalable **REST APIs**
 - Improving **Backend System Design**
@@ -112,7 +112,7 @@ I enjoy turning ideas into real-world backend systems and solving programming ch
 
 ---
 
-## 📈 Visitor Counter
+## Visitor Counter
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sumonstr12&label=Profile%20views&color=0e75b6&style=flat" alt="sumonstr12" />
