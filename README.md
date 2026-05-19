@@ -1,4 +1,4 @@
-<!-- GitHub Profile README for sumonstr -->
+
 
 <h1 align="center">Hi , I'm Sumon</h1>
 <h3 align="center">Aspiring Software Engineer | Django & DRF Developer | Backend Enthusiast</h3>
@@ -77,11 +77,23 @@ Python, Django, DRF
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumonstr12&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sumonstr12&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumonstr12&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumonstr12&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sumonstr12&theme=tokyonight" />
+</p>
+
+## Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sumonstr12&theme=tokyo-night&hide_border=true"
+  />
 </p>
 
 ---
