@@ -85,7 +85,7 @@ Python, Django, DRF
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sumonstr12&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=sumonstr12&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ## Contribution Graph
