@@ -84,10 +84,6 @@ Python, Django, DRF
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumonstr12&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sumonstr12&theme=tokyonight&cache_seconds=86400" />
-</p>
-
 ## Contribution Graph
 
 <p align="center">
