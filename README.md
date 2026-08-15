@@ -74,15 +74,6 @@ Python, Django, DRF
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sumonstr12&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumonstr12&layout=compact&theme=tokyonight" />
-</p>
 
 ## Contribution Graph
 
